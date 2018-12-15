@@ -1,10 +1,7 @@
-let a = {};
+let colorful = {};
 
-a.changeColor = function() {
+colorful.changeBgColor = function() {
   document.body.style.backgroundColor = "red";
 };
-a.changeBgColor = function() {
-  return 5;
-};
 
-export { a as default };
+export { colorful as default };
