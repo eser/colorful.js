@@ -1,7 +1,7 @@
-const colorful = {};
-
-colorful.changeBgColor = () => {
+function changeBgColor() {
   document.body.style.backgroundColor = "red";
-};
-
-export { colorful as default };
+}
+function writeConsole() {
+  console.log("SA");
+}
+export { changeBgColor, writeConsole };
