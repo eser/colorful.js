@@ -1,0 +1,27 @@
+{
+  "name": "colorfuljs",
+  "version": "0.0.1",
+  "description": "ColorfulJS is the simple way to change colors on web page.",
+  "main": "colorful.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okandavut/colorful.js.git"
+  },
+  "keywords": [
+    "color",
+    "webcolor",
+    "changecolor"
+  ],
+  "author": "Okan DAVUT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okandavut/colorful.js/issues"
+  },
+  "homepage": "https://github.com/okandavut/colorful.js#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
