@@ -1,6 +1,6 @@
 const colorful = {};
 
-colorful.changeBgColor = function() {
+colorful.changeBgColor = () => {
   document.body.style.backgroundColor = "red";
 };
 
