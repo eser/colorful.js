@@ -1,4 +1,4 @@
-import * as colorful from "./colorful.js";
+import * as colorful from "../scripts/colorful.js";
 
 colorful.changeBgColor();
 colorful.writeConsole();
