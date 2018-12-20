@@ -21,7 +21,10 @@
     "url": "https://github.com/okandavut/colorful.js/issues"
   },
   "homepage": "https://github.com/okandavut/colorful.js#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "peerDependencies": {
     "lite-server": "^2.4.0"
   }
 }
